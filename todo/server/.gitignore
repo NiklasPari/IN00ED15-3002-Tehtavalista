@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+/.pnp
+.pnp.js
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime env files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Build outputs
+build/
+
+# Parcel, Next, Vite, etc.
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vite/
+
+#  server
+/server/node_modules
+/server/.env
+
